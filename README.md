@@ -131,4 +131,4 @@ Las aplicaciones RESTful generalmente usan formatos de datos ligeros como JSON o
 ### Seguridad: 🔐
 
 REST no prescribe un mecanismo específico de seguridad, pero puede utilizarse junto con HTTPS para asegurar la comunicación entre el cliente y el servidor.
-# resolucion_parcial_uno_app
+
